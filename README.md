@@ -1,4 +1,4 @@
-# libreria.js
+# libreria.js (Gráficas y Resultados Estadisticos)
 
 ## Descripción
 `libreria.js` es una librería JavaScript que permite crear gráficos de líneas, gráficos de pastel y histogramas, así como calcular estadísticas como la media, mediana y moda. Esta librería es útil para visualizar datos y realizar análisis estadísticos de manera sencilla y efectiva.

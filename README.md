@@ -46,5 +46,6 @@ A continuación, se presenta un ejemplo de implementación de `libreria.js` en u
 # Video
 https://youtu.be/7H8NDeDmpFI?si=liNCue3QCYMBVqLx
 
-
+# GitHub Pages
+https://naza2.github.io/Libreria-G/
 

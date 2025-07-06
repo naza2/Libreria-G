@@ -40,7 +40,8 @@ A continuación, se presenta un ejemplo de implementación de `libreria.js` en u
 # Métodos
 ## drawLineChart(data, labels, ctx)
 Dibuja un gráfico de líneas en el contexto del canvas proporcionado.
-- Parámetros:data: Un arreglo de números que representan los valores a graficar.
+## Parámetros:
+- data: Un arreglo de números que representan los valores a graficar.
 - labels: Un arreglo de cadenas que representan las etiquetas para el eje X.
 - ctx: El contexto del canvas donde se dibujará el gráfico.
 

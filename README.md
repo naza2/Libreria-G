@@ -44,6 +44,38 @@ Dibuja un gráfico de líneas en el contexto del canvas proporcionado.
 - data: Un arreglo de números que representan los valores a graficar.
 - labels: Un arreglo de cadenas que representan las etiquetas para el eje X.
 - ctx: El contexto del canvas donde se dibujará el gráfico.
+## drawPieChart(data, labels, ctx)
+Dibuja un gráfico de pastel en el contexto del canvas proporcionado.
+### Parámetros:
+- data: Un arreglo de números que representan los valores a graficar.
+- labels: Un arreglo de cadenas que representan las etiquetas para cada segmento del pastel.
+- ctx: El contexto del canvas donde se dibujará el gráfico.
+## drawBarChart(data, labels, ctx)
+Dibuja un histograma en el contexto del canvas proporcionado.
+### Parámetros:
+- data: Un arreglo de números que representan los valores a graficar.
+- labels: Un arreglo de cadenas que representan las etiquetas para el eje X.
+- ctx: El contexto del canvas donde se dibujará el gráfico.
+## calcularMedia(valores)
+Calcula la media de un arreglo de números.
+### Parámetros:
+valores: Un arreglo de números.
+### Retorna: 
+La media de los valores.
+## calcularMediana(valores)
+Calcula la mediana de un arreglo de números.
+### Parámetros:
+valores: Un arreglo de números.
+### Retorna: 
+La mediana de los valores.
+## calcularModa(valores)
+Calcula la moda de un arreglo de números.
+### Parámetros:
+valores: Un arreglo de números.
+### Retorna: 
+Un arreglo con los valores que aparecen con mayor frecuencia.
+## updateAllCharts()
+Actualiza todos los gráficos y estadísticas en la página.
 
 # Capturas de Pantalla
 ![Grafica de Lineas](https://github.com/naza2/Libreria/blob/36c2e51a7294855e73cddcf47307db9ca96aaee6/Grafica%20de%20Lineas.png)

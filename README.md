@@ -77,12 +77,6 @@ Un arreglo con los valores que aparecen con mayor frecuencia.
 ## updateAllCharts()
 Actualiza todos los gráficos y estadísticas en la página.
 
-# Capturas de Pantalla
-![Grafica de Lineas](https://github.com/naza2/Libreria/blob/36c2e51a7294855e73cddcf47307db9ca96aaee6/Grafica%20de%20Lineas.png)
-![Grafica de Pastel](https://github.com/naza2/Libreria/blob/36c2e51a7294855e73cddcf47307db9ca96aaee6/Grafica%20de%20Pastel.png)
-![Histograma](https://github.com/naza2/Libreria/blob/36c2e51a7294855e73cddcf47307db9ca96aaee6/Histograma.png)
-![Resultados Estadísticos](https://github.com/naza2/Libreria/blob/36c2e51a7294855e73cddcf47307db9ca96aaee6/Resultados%20Estadisticos.png)
-
 # Video
 https://youtu.be/7H8NDeDmpFI?si=liNCue3QCYMBVqLx
 
